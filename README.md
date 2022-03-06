@@ -1,4 +1,5 @@
 # Hack-her-thon2022
+![image](https://user-images.githubusercontent.com/81494714/156922006-43daffeb-8cc1-43e9-95f5-3e89bad9f4c9.png)
 
 Team members: Elodie Delort, Pim Itti, Nine Kinnman, Natalie Wu 
 
