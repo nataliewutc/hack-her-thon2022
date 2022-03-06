@@ -20,6 +20,7 @@ How to code collaboratively and integrating everything together to make code coh
 Learning how best to approach learning coding and therefore we’re in a better position to make the website more accessible and easier to use. 
 
 ## What's next 
+Have an inbuilt console in our webapp. 
 Implementing the design with React. 
 Scrape from more resources e.g. twitter, google. 
 Build a chat bot within the website. 
